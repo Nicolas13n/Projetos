@@ -20,3 +20,8 @@ document.addEventListener("click", function(event){
         },50)
     }
 })
+
+
+form.addEventListener("submit", function(event){
+    event.preventDefault();
+})
