@@ -1,0 +1,37 @@
+/* Css geral */
+/* rgb(24, 1, 97)   
+rgb(79, 23, 135)
+rgb(235, 54, 120)
+rgb(251, 119, 60) */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn-form{
+    Font-size: 19px;
+    border: 3px ;
+    border-radius: 38px;
+    padding: 8px;
+    margin-top: 5px;
+    margin-left: 261px;
+    width: 24%;
+    height: 6vh;
+    color: rgb(255 255 255);
+    background-color: #38695882;
+    position: absolute;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-shadow: 10px 4px 5px #fff9c2;
+    box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    
+}
+.btn-form:hover{
+    background-color: #ffffff;
+    color: #f16666;
+    border: #fff9c2;
+    transition: 0.7s;
+
+}
+
+
